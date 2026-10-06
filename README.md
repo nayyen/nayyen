@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Nayla 👋
+Informatics student (UII, Indonesia), currently studying in China, on the path to becoming an AI Engineer.
 
-<!--
-**nayyen/nayyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Currently
+- Learning Python, SQL, and APIs
+- Building my first AI projects (coming soon)
 
-Here are some ideas to get you started:
+## Tech
+Python (learning) · Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal
+Open to a summer internship in Indonesia (Summer 2027)
+
+## Connect
+LinkedIn: https://www.linkedin.com/in/nayla-raihaanah-nabilah-hakim-3a2084371?utm_source=share_via&utm_content=profile&utm_medium=member_android
