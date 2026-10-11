@@ -31,7 +31,7 @@ Python → SQL → APIs → LLMs → RAG → Agents → Deployment
 
 ## Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayla-0A66C2?style=for-the-badge)](www.linkedin.com/in/nayyen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nayla-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/nayyen)
 
 ---
 
