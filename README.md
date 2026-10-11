@@ -6,7 +6,7 @@
 
 ## About Me
 
-- Informatics student @ UII Yogyakarta (2+2 double degree), currently studying in China 🇨🇳
+- Informatics student @ UII Yogyakarta (2+2 double degree), currently studying in China at Nanjing Xiaozhuang University 🇨🇳
 - Learning AI Engineering: Python, APIs, LLMs, and RAG
 - Building in public, daily notes in [learning-log](https://github.com/nayyen/learning-log)
 - Open to a summer internship in Indonesia (Summer 2027)
